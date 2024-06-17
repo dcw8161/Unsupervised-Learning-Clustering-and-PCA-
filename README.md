@@ -34,3 +34,4 @@ This is a popular unsupervised machine learning technique for reducing the dimen
     - Exploratory Data Analysis: Understand data structure and relationships
     - Feature Engineering: Improve model performance by reducing noise
     - Visualization: Plot data in lower dimensions for better insights
+
