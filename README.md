@@ -28,8 +28,6 @@ This is a popular unsupervised machine learning technique for reducing the dimen
 
   ### How PCA Works:
     - PCA identifies orthogonal axes (principal components) that retain essential information
-    - The first principal component explains the most variance, followed by the second, and so on
-    - By selecting a subset of these components, we reduce the dimensionality while preserving patterns
 
 
   ### Applications of PCA:
