@@ -1,5 +1,5 @@
 # Unsupervised-Learning (Clustering and PCA) 
-Unsupervised learning was done using Clustering and Principal component analysis  (PCA)
+Unsupervised learning was done using Clustering and Principal component analysis (PCA)
 
 ## Clustering Method
 - Clustering, also known as cluster analysis, organizes and classifies data points into groups or clusters
@@ -16,3 +16,21 @@ Unsupervised learning was done using Clustering and Principal component analysis
   - Pattern Recognition
   - Image Analysis
   - Social Network Analysis
+
+## Principal component analysis (PCA)
+This is a popular unsupervised machine learning technique for reducing the dimensionality of large datasets. 
+
+  ### Purpose of PCA:
+    - Dimensionality Reduction: PCA simplifies data by reducing the number of variables
+    - It transforms high-dimensional data into a smaller set of uncorrelated dimensions called principal components
+    - These components capture the maximum variance in the data
+
+  ### How PCA Works:
+    - PCA identifies orthogonal axes (principal components) that retain essential information
+    - The first principal component explains the most variance, followed by the second, and so on
+    - By selecting a subset of these components, we reduce the dimensionality while preserving patterns
+
+  ### Applications of PCA:
+    - Exploratory Data Analysis: Understand data structure and relationships
+    - Feature Engineering: Improve model performance by reducing noise
+    - Visualization: Plot data in lower dimensions for better insights
