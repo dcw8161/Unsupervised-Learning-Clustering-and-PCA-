@@ -21,7 +21,7 @@ Unsupervised learning was done using Clustering and Principal component analysis
 This is a popular unsupervised machine learning technique for reducing the dimensionality of large datasets. 
 
   ### Purpose of PCA:
-  - Dimentionaly Reduction: 
+  - Dimentionaly Reduction: PCA simplifies data by reducing the number of variables
 
 
   ### How PCA Works:
